@@ -1,0 +1,88 @@
+{
+  "capturedAt": "2026-03-07T09:38:01.593Z",
+  "username": "max.citiso@hispeed.ch",
+  "loginUrl": "https://login.supercard.ch/",
+  "proxy": null,
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+  "cookies": [
+    {
+      "name": "DISSESSIONOauthOidcServerSupport",
+      "value": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCIsImtpZCI6IjQxMWNkOWFiLWRkMjYtNDllYS05ZDdlLWE0NzYwOTY4NzY3MCJ9.ZXlKNmFYQWlPaUpFUlVZaUxDSmhiR2NpT2lKa2FYSWlMQ0psYm1NaU9pSkJNalUyUTBKRExVaFROVEV5SWl3aVkzUjVJam9pU2xkVUlpd2lkSGx3SWpvaVNsZFVJaXdpYTJsa0lqb2laVFZoWlRWbFltRXRZVFppT1MwMFlqTTNMVGcxTVRNdFpHVm1OakppTkRJMk9HVmxJbjAuLjU5WDFCVFJaNDFZQm00a0NGUThFZ0EuLWo1VXpHZkNNeG1PN3FQd2s1OW15Tms5V0M3cDhaODRzQjJRN0FxQkk3WUNrSU9sU0tkV0Zxdjh0MXlJTlQyVFJrYWFyZmVuSGxjcTVwWXd3RWp2LWxCRktKRFdGTUJneXU4VUN6SndRQTQ0WVhvMUpyTzZwdXk0VjhlMWU0SHBBdmU0bXFyMUhrT3hsX0dKNHVBY1FoS2Mxb08zeXZSNHgxYlA3enBJVG9NbmdCdmstWXZpTjZ0UEpfeEJFTFkyWEtrd1FVVUtqV3k4Y29SdUZlekFnZy5iUVZNMDYyWTZrUEZxVjBiSGZwOEVLYnpKUEZZV3dNOGt4RWktUzdMS21J.pSRFob11gIEIiAFMWiMQWGHCkPoHaV3OJ0FTxWM0WZeUiUJLuW26i6Hyloy0Zs8uErqjMR2NDErZq3cnxO5yFQ",
+      "domain": "login.supercard.ch",
+      "path": "/cas",
+      "secure": true,
+      "httpOnly": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "1057eefd-6752-4e5b-8651-5375d650df8d",
+      "domain": "login.supercard.ch",
+      "path": "/cas",
+      "secure": true,
+      "httpOnly": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TS0147bc3d",
+      "value": "016df7e16a9c853fc84458179945836bfbdcef90c10f9cc303276bd405b6edd5504efaac9a3154e64e58de6f2e39d59e8d9726eec7aae7ac6131e517ed57bf4cb14d60217dd9f319e632ff8ab5e4294c0206d2f206",
+      "domain": "login.supercard.ch",
+      "path": "/cas",
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "org.springframework.web.servlet.i18n.CookieLocaleResolver.LOCALE",
+      "value": "de",
+      "domain": "login.supercard.ch",
+      "path": "/",
+      "secure": true,
+      "httpOnly": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TS014e0601",
+      "value": "016df7e16ae93385bc138900511f9cdaa337467e910f9cc303276bd405b6edd5504efaac9ac3d68904cd6f223b4fdf52d5fb5bcdbd512ea3ae1aeea752890b6c1761e6cd69",
+      "domain": "login.supercard.ch",
+      "path": "/",
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "None"
+    },
+    {
+      "name": "cdnLBcookie",
+      "value": "!pn5OuXPU57RGOF58rncH6Db/VDsxaxSWETU2xYDoWecm+8S9cn4sdu5PSDz6kVSBRjyGPPXVFqv747g6a3+I1BNbIRqt/EZ3hNAjzKq9XEGM",
+      "domain": "libs.coop.ch",
+      "path": "/",
+      "secure": true,
+      "httpOnly": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "utag_main",
+      "value": "v_id:019cc7a897380022292c95e9912005075014106d00bb7$_sn:1$_se:10$_ss:0$_st:1772878080308$ses_id:1772876240696%3Bexp-session$_pn:7%3Bexp-session",
+      "domain": ".supercard.ch",
+      "path": "/",
+      "secure": false,
+      "httpOnly": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "datadome",
+      "value": "F84DfsDR2o8ZTZjDjubvJBTkkESpBWF~4lhA0OWa8FM_Vhziv66_driZCKVq7_0g4UeNIxA2jKavnVWB6wEKf6G3iY~0VTIKi0MJn6MfFHirr57gPyxZF9ZbN5LclkrN",
+      "domain": ".supercard.ch",
+      "path": "/",
+      "secure": true,
+      "httpOnly": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "headers": {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "Accept-Language": "de-DE",
+    "Accept-Encoding": "gzip, deflate, br"
+  },
+  "pythonSnippet": "import requests\n\n# Session captured by SuPerrMurrer at 2026-03-07T09:38:01.593Z\n# Login URL: https://login.supercard.ch/\n# Username:  max.citiso@hispeed.ch\n\ncookies = {\n    \"DISSESSIONOauthOidcServerSupport\": \"eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCIsImtpZCI6IjQxMWNkOWFiLWRkMjYtNDllYS05ZDdlLWE0NzYwOTY4NzY3MCJ9.ZXlKNmFYQWlPaUpFUlVZaUxDSmhiR2NpT2lKa2FYSWlMQ0psYm1NaU9pSkJNalUyUTBKRExVaFROVEV5SWl3aVkzUjVJam9pU2xkVUlpd2lkSGx3SWpvaVNsZFVJaXdpYTJsa0lqb2laVFZoWlRWbFltRXRZVFppT1MwMFlqTTNMVGcxTVRNdFpHVm1OakppTkRJMk9HVmxJbjAuLjU5WDFCVFJaNDFZQm00a0NGUThFZ0EuLWo1VXpHZkNNeG1PN3FQd2s1OW15Tms5V0M3cDhaODRzQjJRN0FxQkk3WUNrSU9sU0tkV0Zxdjh0MXlJTlQyVFJrYWFyZmVuSGxjcTVwWXd3RWp2LWxCRktKRFdGTUJneXU4VUN6SndRQTQ0WVhvMUpyTzZwdXk0VjhlMWU0SHBBdmU0bXFyMUhrT3hsX0dKNHVBY1FoS2Mxb08zeXZSNHgxYlA3enBJVG9NbmdCdmstWXZpTjZ0UEpfeEJFTFkyWEtrd1FVVUtqV3k4Y29SdUZlekFnZy5iUVZNMDYyWTZrUEZxVjBiSGZwOEVLYnpKUEZZV3dNOGt4RWktUzdMS21J.pSRFob11gIEIiAFMWiMQWGHCkPoHaV3OJ0FTxWM0WZeUiUJLuW26i6Hyloy0Zs8uErqjMR2NDErZq3cnxO5yFQ\",\n    \"XSRF-TOKEN\": \"1057eefd-6752-4e5b-8651-5375d650df8d\",\n    \"TS0147bc3d\": \"016df7e16a9c853fc84458179945836bfbdcef90c10f9cc303276bd405b6edd5504efaac9a3154e64e58de6f2e39d59e8d9726eec7aae7ac6131e517ed57bf4cb14d60217dd9f319e632ff8ab5e4294c0206d2f206\",\n    \"org.springframework.web.servlet.i18n.CookieLocaleResolver.LOCALE\": \"de\",\n    \"TS014e0601\": \"016df7e16ae93385bc138900511f9cdaa337467e910f9cc303276bd405b6edd5504efaac9ac3d68904cd6f223b4fdf52d5fb5bcdbd512ea3ae1aeea752890b6c1761e6cd69\",\n    \"cdnLBcookie\": \"!pn5OuXPU57RGOF58rncH6Db/VDsxaxSWETU2xYDoWecm+8S9cn4sdu5PSDz6kVSBRjyGPPXVFqv747g6a3+I1BNbIRqt/EZ3hNAjzKq9XEGM\",\n    \"utag_main\": \"v_id:019cc7a897380022292c95e9912005075014106d00bb7$_sn:1$_se:10$_ss:0$_st:1772878080308$ses_id:1772876240696%3Bexp-session$_pn:7%3Bexp-session\",\n    \"datadome\": \"F84DfsDR2o8ZTZjDjubvJBTkkESpBWF~4lhA0OWa8FM_Vhziv66_driZCKVq7_0g4UeNIxA2jKavnVWB6wEKf6G3iY~0VTIKi0MJn6MfFHirr57gPyxZF9ZbN5LclkrN\"\n}\n\nheaders = {\n    \"User-Agent\": \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36\",\n    \"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\n    \"Accept-Language\": \"de-DE\",\n    \"Accept-Encoding\": \"gzip, deflate, br\"\n}\n\nsession = requests.Session()\nsession.cookies.update(cookies)\nsession.headers.update(headers)\n\n# Example: load the login page with the captured session\nresponse = session.get(\n    \"https://login.supercard.ch/\",\n    headers=headers,\n    cookies=cookies,\n    timeout=30\n)\nprint(response.status_code, response.url)\n"
+}
